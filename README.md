@@ -29,8 +29,8 @@ The target variable was converted to a binominal class label.
 
 The dataset was divided into training (80%) and testing (20%) subsets to evaluate model performance on unseen data.
 
-**Exploratory Data Analysis (EDA)
-**
+**Exploratory Data Analysis (EDA)**
+
 Exploratory analysis was performed to understand the distribution and relationships of financial variables. Different visualizations were used including:
 
 Histograms for feature distributions
