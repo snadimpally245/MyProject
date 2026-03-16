@@ -1,4 +1,5 @@
 **Bankruptcy Risk Prediction Using Machine Learning**
+
 Project Overview
 
 This project focuses on predicting the likelihood of corporate bankruptcy using machine learning techniques. Financial ratios and company financial indicators are used as input features to classify companies as either bankrupt or non-bankrupt. Early bankruptcy prediction is valuable for investors, financial institutions, and business analysts to support better decision-making and risk management.
